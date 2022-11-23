@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @coronarita (@2022-03-10)
-
-- 👀 I’m interested in Flutter app programming.
-- 🌱 I’m currently learning Flutter and Dart.
 - 📫 How to reach me : kakao talk ID : mbsd // e-mail : coronarita1991@gmail.com
 
 
