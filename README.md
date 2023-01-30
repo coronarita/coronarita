@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @coronarita (@2022-03-10)
+
+현재, NLP Researcher, ML Engineer, Backend Engineer 직군에 관심있습니다.
+
+
+- 👋 Hi, I’m @coronarita (@2023-01-30)
 - 📫 How to reach me : kakao talk ID : mbsd // e-mail : coronarita1991@gmail.com
 
 
