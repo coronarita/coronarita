@@ -23,8 +23,8 @@
 - (23. 03. ~ 11.)
   - 삼성전자 DS부문 AI/Bigdata Intensive 과정 담당 실습코치로, 반도체 제조업 관련 ML/DL 프로젝트를 다수 경험해봤음
 
-- (23. 12.)
-  - 새로운 직장을 위한 구직중입니다.
+- (24. 05. ~ )
+  - 아이펠 온라인 8기 리서치 과정을 진행 중 입니다.
  
 <!---
 coronarita/coronarita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
